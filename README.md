@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @igmii
 - 🌱 I’m currently learning lua, 
 - 📫 How to reach me: Igmii#5681
+- 📚 python, lua, C++, html, java script
 
 <!---
 igmii/igmii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
